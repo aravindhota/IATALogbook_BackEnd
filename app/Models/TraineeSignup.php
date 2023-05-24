@@ -8,4 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class TraineeSignup extends Model
 {
     use HasFactory;
+    // TODO: 
 }
